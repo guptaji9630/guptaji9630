@@ -1,0 +1,16 @@
+Hey Everyone 
+I have done the project of html with code #0225
+intiate the 2 phase of CSS project 
+<HTML>
+
+
+<p>
+
+
+Html site update quesses can be rasied but please dont change as perment change in the html 
+due to this i can be bugged and css file may get corrupt 
+
+
+</p>
+
+</HTML>
