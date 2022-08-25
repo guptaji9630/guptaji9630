@@ -1,3 +1,35 @@
+<div align = "centre">
+  <h2> Hello Fellow </Developers>! </h2>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - 👋 Hi, I’m @guptaji9630
 - 👀 I’m interested in opencv, machine learning, Python, web development 
 - 🌱 I’m currently learning blockchain, solidity, Java 
