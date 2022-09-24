@@ -1,4 +1,5 @@
 
+<link rel ="stylesheet" herf ="/CSS/style.css"/>
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
   <h2> This is Abhishek Gupta</h2>
@@ -43,7 +44,19 @@
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/guptaji9630#0101" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/guptaji9630" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/a_guptaji9630/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/17022081/dragoncode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/abhishekg9630" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<div>
+  <a href ="" class="link">
+    <i class="fab fa-instagram instagram"></i>
+  </a>
+    <a href ="" class="link">
+    <i class="fab fa-twitter twitter"></i>
+  </a>
+    <a href ="" class="link">
+    <i class="fab fa-linkedin linkedin"></i>
+  </a>
+
+
+</div>
 
 ### Badges
 
