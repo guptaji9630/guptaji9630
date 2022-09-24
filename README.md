@@ -45,7 +45,7 @@
 ### Socials
 
 <div>
-  <a href ="" class="link">
+  <a href ="https://www.instagram.com/a_guptaji9630/" class="link">
     <i class="fab fa-instagram instagram"></i>
   </a>
     <a href ="" class="link">
