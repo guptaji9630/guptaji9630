@@ -11,13 +11,13 @@
 
 </div>
 
-- 👀 I’m interested in opencv, machine learning, Python, web development 
+- 👀 I’m interested in , machine learning, Python, web development 
 - 🌱 I’m currently learning blockchain, solidity, Java 
-- 🌍  I'm based in New Delhi ,India
+- 🌍  I'm based in New Delhi , India
 
 
 <div>
-  <div align = "Right">
+  <div align = "center">
  <img src="https://github.com/guptaji9630/guptaji9630/blob/main/giphy.gif" width="500px">
        </div>
   
